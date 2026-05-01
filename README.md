@@ -58,7 +58,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jithins-projects&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jithins-projects-12f63a93&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=jithinpulikkal&theme=tokyonight" />
 </p>
 
