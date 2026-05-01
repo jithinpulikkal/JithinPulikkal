@@ -61,16 +61,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jithinpulikkal&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jithinpulikkal&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 ## ⚡ Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jithinpulikkal&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jithinpulikkal&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
