@@ -37,7 +37,7 @@
 - 📱 **Mobile Shopping App**  
   Full cart flow, wishlist, API integration  
 
-- 💼 **RiyaHub Job Portal**  
+- 💼 **Job Portal**  
   Job listings, WhatsApp integration, Excel export  
 
 - 💍 **Wedding Website**  
