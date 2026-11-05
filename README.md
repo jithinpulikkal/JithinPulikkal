@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Jithin</h1>
 <h3 align="center">MERN Stack & React Native Developer</h3>
 
@@ -13,44 +14,48 @@
 
 - 💻 Software Developer focused on **MERN Stack & React Native**
 - ⚡ Passionate about **scalable systems & clean UI**
-- 📱 Building **mobile + web apps with real-world impact**
-- 🔥 Love solving problems and shipping production-ready apps
+- 📱 Building **mobile and web applications with real-world impact**
+- 🔥 Love solving problems and delivering production-ready applications
 
 ---
 
 ## 🧑‍💻 Experience
 
-- ⚙️ Backend-heavy full-stack development with **MongoDB, Express, React, Node.js**
-- 📱 Mobile development using **React Native & Expo**
-- 🎨 UI design using **Tailwind CSS**
-- 🔗 API integration with **Axios, REST APIs**
-- 🗄️ Working with **SQL Server & backend architecture**
-- ☁️ Deployment on **Vercel, Netlify & Play Store**
+- ⚙️ Full-stack development with **MongoDB, Express.js, React.js & Node.js**
+- 📱 Mobile application development using **React Native & Expo**
+- 🎨 Responsive UI development using **Tailwind CSS**
+- 🔗 REST API development and integration using **Express.js & Axios**
+- 🗄️ Database development using **MongoDB & Microsoft SQL Server**
+- 🏗️ Backend architecture, authentication and API security
+- ☁️ Deployment using **Vercel, Netlify & IIS**
+- 🔧 Version control using **Git & GitHub**
 
 ---
 
 ## 🚀 Projects
 
-- 🛒 **E-commerce Platform**  
-  Role-based pricing, wishlist, advanced filtering  
+- 🛒 **E-commerce Platform**
+  - Role-based pricing, wishlist and advanced filtering
 
-- 📱 **Mobile Shopping App**  
-  Full cart flow, wishlist, API integration  
+- 📱 **Mobile Shopping App**
+  - Shopping cart, wishlist and REST API integration
 
-- 💼 **Job Portal**  
-  Job listings, WhatsApp integration, Excel export  
+- 💼 **Job Portal**
+  - Job listings, WhatsApp integration and Excel export
 
-- 💍 **Wedding Website**  
-  Kerala-style animated invitation UI  
+- 💍 **Wedding Website**
+  - Kerala-style animated invitation UI
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,vite,js,ts,git,github,vscode&perline=11" alt="Tech Stack" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,vite,js,ts,git,github,vscode" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,postman,vercel,netlify&perline=5" alt="Additional Tools" />
 </p>
 
 ---
@@ -58,7 +63,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jithinpulikkal&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jithinpulikkal&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 ---
@@ -66,16 +74,21 @@
 ## ⚡ Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jithinpulikkal&theme=tokyo-night&hide_border=true" />
+  <a href="https://github.com/jithinpulikkal">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=jithinpulikkal&theme=tokyo-night&hide_border=true"
+      alt="GitHub Activity Graph"
+    />
+  </a>
 </p>
 
 ---
 
 ## 📬 Contact
 
-- 📧 mail.jithinpulikkal@gmail.com  
-- 🌐 https://jithinpulikkal.in  
-- 💼 https://www.linkedin.com/in/jithinpulikkal/
+- 📧 [mail.jithinpulikkal@gmail.com](mailto:mail.jithinpulikkal@gmail.com)
+- 🌐 [jithinpulikkal.in](https://jithinpulikkal.in)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jithinpulikkal/)
 
 ---
 
