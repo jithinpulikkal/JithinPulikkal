@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="./assets/profile-banner.svg" width="100%" alt="Jithin Pulikkal — MERN Stack and React Native Developer" />
 </p>
 
@@ -21,12 +21,17 @@ I'm a software developer focused on the **MERN stack** and **React Native**, wit
 
 ## Selected work ✨
 
-| Project | What I built |
-| :--- | :--- |
-| 🛒 **E-commerce platform** | Role-based pricing, wishlists, and advanced product filtering. |
-| 📱 **Mobile shopping app** | A complete cart flow, wishlists, and API integrations. |
-| 💼 **Job portal** | Job listings, WhatsApp integration, and Excel exports. |
-| 💍 **Wedding website** | A Kerala-style invitation with an animated interface. |
+- 🛒 **E-commerce Platform**<br />
+  Role-based pricing, wishlists, and advanced product filtering.
+
+- 📱 **Mobile Shopping App**<br />
+  A complete cart flow, wishlists, and API integrations.
+
+- 💼 **Job Portal**<br />
+  Job listings, WhatsApp integration, and Excel exports.
+
+- 💍 **Wedding Website**<br />
+  A Kerala-style invitation with an animated interface.
 
 **[Explore my portfolio →](https://jithinpulikkal.in)**
 
@@ -36,12 +41,10 @@ I'm a software developer focused on the **MERN stack** and **React Native**, wit
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,vite,git,github,vscode&amp;perline=6" alt="JavaScript, TypeScript, React, Node.js, Express, MongoDB, Tailwind CSS, Vite, Git, GitHub, and VS Code" />
 </p>
 
-| Area | Stack |
-| :--- | :--- |
-| **Frontend** | React · Tailwind CSS · Vite |
-| **Mobile** | React Native · Expo |
-| **Backend & data** | Node.js · Express · MongoDB · SQL Server |
-| **APIs & delivery** | REST APIs · Axios · Vercel · Netlify · Play Store |
+- 🎨 **Frontend:** React · Tailwind CSS · Vite
+- 📱 **Mobile:** React Native · Expo
+- ⚙️ **Backend & data:** Node.js · Express · MongoDB · SQL Server
+- 🚀 **APIs & delivery:** REST APIs · Axios · Vercel · Netlify · Play Store
 
 <details>
   <summary><strong>📊 A look at my GitHub activity</strong></summary>
