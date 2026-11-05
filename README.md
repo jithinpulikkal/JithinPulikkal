@@ -1,88 +1,300 @@
+
+<!-- ==================== HEADER ==================== -->
+
 <div align="center">
 
-# Hi 👋, I'm Jithin
+# Hey there! 👋 I'm Jithin
 
-### Full-Stack Developer · React Native Developer
+### Full Stack Developer | React Native Developer
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=70A5FD&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;Creating+cross-platform+mobile+apps;Node.js+%7C+React+%7C+React+Native;Always+learning%2C+always+building" alt="Animated developer introduction" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React+Native+%26+Expo+Developer;Node.js+%26+Express.js+Developer;Building+Scalable+Applications;Turning+Ideas+Into+Reality" alt="Animated Typing Header" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=70a5fd)](https://jithinpulikkal.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1a1b27?style=for-the-badge&logo=linkedin&logoColor=70a5fd)](https://www.linkedin.com/in/jithinpulikkal/)
-[![Email](https://img.shields.io/badge/Email-Contact-1a1b27?style=for-the-badge&logo=gmail&logoColor=70a5fd)](mailto:mail.jithinpulikkal@gmail.com)
+<br/>
+
+<a href="https://jithinpulikkal.in">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jithinpulikkal/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:mail.jithinpulikkal@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 ---
+
+<!-- ==================== ABOUT ==================== -->
 
 ## 👨‍💻 About Me
 
-I'm a self-taught software developer focused on building practical, maintainable **web and mobile applications**. I enjoy backend architecture, clean interfaces, API design, and turning real business requirements into working products.
+```javascript
+const jithin = {
+    role: "Full Stack Developer",
 
-- 🔭 Working across **React, React Native, Node.js, Express, and SQL Server**
-- 🧩 Interested in **scalable APIs, database design, and end-to-end product development**
-- 📱 Building cross-platform apps with **React Native and Expo**
-- ⚡ Always improving code quality, performance, and developer workflows
+    specialization: [
+        "MERN Stack Development",
+        "React Native Development",
+        "REST API Development",
+        "Database Architecture"
+    ],
 
-## 🛠️ Technology Stack
+    technologies: {
+        frontend: ["React", "JavaScript", "Tailwind CSS"],
+        mobile: ["React Native", "Expo", "twrnc"],
+        backend: ["Node.js", "Express.js"],
+        databases: ["MongoDB", "Microsoft SQL Server"]
+    },
 
-| Area                   | Technologies                                                 |
-| ---------------------- | ------------------------------------------------------------ |
-| **Frontend**           | React, JavaScript, TypeScript, Vite, HTML, CSS, Tailwind CSS |
-| **Mobile**             | React Native, Expo, twrnc                                    |
-| **Backend**            | Node.js, Express.js, REST APIs, Socket.IO                    |
-| **Databases**          | Microsoft SQL Server, MongoDB                                |
-| **Tools & Deployment** | Git, GitHub, VS Code, Postman, IIS, Vercel, Netlify          |
+    interests: [
+        "Building scalable applications",
+        "Clean and maintainable code",
+        "Solving real-world problems",
+        "Learning new technologies"
+    ],
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,vite,tailwind,nodejs,express,mongodb,git,github,vscode,postman&theme=dark&perline=6" alt="Technology icons" />
-</div>
+    motto: "Build. Learn. Improve. Repeat."
+};
+```
 
-## 🚀 Featured Projects
-
-> These are project highlights. Add the real repository links when the projects are public; the current links go to your GitHub repositories page rather than pretending a specific repository exists.
-
-| Project                              | Highlights                                                               | Stack                                    |
-| ------------------------------------ | ------------------------------------------------------------------------ | ---------------------------------------- |
-| **🎟️ Match Ticket Booking Platform** | Match-specific booking, seat management, organizer and payment workflows | React, React Native, Node.js, SQL Server |
-| **🍽️ Catering Inventory System**     | Utensil categories, stock movements, damage and replacement tracking     | React Native, Express, SQL Server        |
-| **📋 Staff Task & Attendance Apps**  | Assigned duties, attendance tracking, reporting, and mobile workflows    | React Native, Expo, Node.js, SQL Server  |
-| **💍 Wedding Invitation Website**    | Responsive event details, animations, and venue directions               | React, Tailwind CSS                      |
-
-<div align="center">
-
-[**Explore my repositories →**](https://github.com/jithinpulikkal?tab=repositories)
-
-</div>
-
-## 📊 GitHub Insights
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jithinpulikkal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithinpulikkal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used public repository languages" />
-
-<img src="https://streak-stats.demolab.com?user=jithinpulikkal&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-> Stats and language charts are provided by third-party services and may occasionally be unavailable. Language percentages reflect analyzed public repository code, not overall skill level.
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-![GitHub contribution snake](https://raw.githubusercontent.com/jithinpulikkal/jithinpulikkal/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> The snake image appears after the GitHub Actions workflow below runs successfully for the first time.
-
-## 📬 Let's Connect
-
-I'm interested in building reliable products, improving user experiences, and solving practical software problems.
-
-**[Portfolio](https://jithinpulikkal.in)** · **[LinkedIn](https://www.linkedin.com/in/jithinpulikkal/)** · **[Email](mailto:mail.jithinpulikkal@gmail.com)**
+- 💻 Full Stack Developer specializing in **MERN Stack and React Native**
+- 📱 Developing cross-platform **Android and mobile applications**
+- ⚙️ Building **REST APIs and scalable backend systems**
+- 🗄️ Working with **MongoDB and Microsoft SQL Server**
+- 🎨 Creating responsive interfaces using **React and Tailwind CSS**
+- 🚀 Passionate about solving real-world problems through technology
 
 ---
 
-<div align="center"><i>Minimal. Clean. Scalable. Always Building 🚀</i></div>
+<!-- ==================== TECH STACK ==================== -->
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,vite&theme=dark" alt="Frontend Technologies"/>
+</p>
+
+### 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark" alt="Mobile Technologies"/>
+</p>
+
+**React Native • Expo • twrnc • Android**
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" alt="Backend Technologies"/>
+</p>
+
+**Node.js • Express.js • REST APIs • JWT Authentication**
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Database Technologies"/>
+</p>
+
+**MongoDB • Microsoft SQL Server (MSSQL)**
+
+### 🔧 Tools & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,windows&theme=dark" alt="Development Tools"/>
+</p>
+
+**Git • GitHub • VS Code • IIS • Android SDK • Gradle**
+
+---
+
+<!-- ==================== PROJECTS ==================== -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-commerce Platform
+
+Full-stack shopping platform with:
+
+- Product and category management
+- Role-based pricing
+- Wishlist and cart
+- Advanced product filtering
+- REST API integration
+
+**Tech:** React, Node.js, Express, MongoDB
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Mobile Shopping App
+
+Cross-platform mobile shopping application featuring:
+
+- Product browsing
+- Cart management
+- Wishlist functionality
+- Backend API integration
+- Responsive mobile UI
+
+**Tech:** React Native, Expo, Node.js
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Catering Inventory System
+
+Inventory management solution for catering businesses.
+
+- Item categories and types
+- Stock quantity management
+- Damage and missing item tracking
+- Inventory movement history
+- Role-based administration
+
+**Tech:** React Native, Node.js, MSSQL
+
+</td>
+<td width="50%" valign="top">
+
+### 🎟️ Ticket Booking Platform
+
+Multi-event ticket booking system.
+
+- Match and event management
+- Seat availability tracking
+- Event-specific coordinators
+- Payment gateway integration design
+- Web and mobile architecture
+
+**Tech:** React, React Native, Node.js, MSSQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Job Portal
+
+Job listing and recruitment platform.
+
+- Job listings and management
+- WhatsApp integration
+- Excel data export
+- User-friendly interface
+
+**Tech:** MERN Stack
+
+</td>
+<td width="50%" valign="top">
+
+### 💍 Wedding Invitation Website
+
+Interactive digital wedding invitation.
+
+- Animated invitation design
+- Event details and countdown
+- Venue and directions
+- Responsive layouts
+- Kerala-inspired styling
+
+**Tech:** React, JavaScript, Tailwind CSS
+
+</td>
+</tr>
+</table>
+
+> Some projects are private, in development, or not yet publicly available.
+
+---
+
+<!-- ==================== GITHUB STATS ==================== -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jithinpulikkal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithinpulikkal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=jithinpulikkal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jithinpulikkal/jithinpulikkal/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jithinpulikkal/jithinpulikkal/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jithinpulikkal/jithinpulikkal/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+<!-- ==================== CURRENT FOCUS ==================== -->
+
+## 🎯 Currently Exploring
+
+- ⚡ Advanced Node.js and backend architecture
+- 🏗️ Scalable REST API design
+- 🔐 Authentication and application security
+- 📱 React Native performance optimization
+- 🗄️ SQL Server database optimization
+- 🚀 Deployment and production workflows
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in discussing software development,
+new technologies, and exciting project ideas.
+
+<br/><br/>
+
+<a href="https://jithinpulikkal.in">
+  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jithinpulikkal/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:mail.jithinpulikkal@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<br/><br/>
+
+### 💙 Code. Create. Innovate. Repeat.
+
+**Thanks for visiting my GitHub profile! 🚀**
+
+</div>
