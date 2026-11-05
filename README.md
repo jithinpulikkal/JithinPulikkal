@@ -1,84 +1,84 @@
-\<h1 align="center">Hi 👋, I'm Jithin\</h1>
-\<h3 align="center">MERN Stack & React Native Developer\</h3>
+<h1 align="center">Hi 👋, I'm Jithin</h1>
+<h3 align="center">MERN Stack & React Native Developer</h3>
 
-\<p align="center">
-&#x20; \<a href="[https://jithinpulikkal.in](https://jithinpulikkal.in)">🌐 Portfolio\</a> •
-&#x20; \<a href="mailto:mail.jithinpulikkal@gmail.com">📧 Email\</a> •
-&#x20; \<a href="[https://www.linkedin.com/in/jithinpulikkal/](https://www.linkedin.com/in/jithinpulikkal/)">💼 LinkedIn\</a>
-\</p>
+<p align="center">
+  <a href="https://jithinpulikkal.in">🌐 Portfolio</a> •
+  <a href="mailto:mail.jithinpulikkal@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/jithinpulikkal/">💼 LinkedIn</a>
+</p>
 
-\---
+---
 
-\## 🚀 About Me
+## 🚀 About Me
 
-\- 💻 Software Developer focused on \*\*MERN Stack & React Native\*\*
-\- ⚡ Passionate about \*\*scalable systems & clean UI\*\*
-\- 📱 Building \*\*mobile + web apps with real-world impact\*\*
-\- 🔥 Love solving problems and shipping production-ready apps
+- 💻 Software Developer focused on **MERN Stack & React Native**
+- ⚡ Passionate about **scalable systems & clean UI**
+- 📱 Building **mobile + web apps with real-world impact**
+- 🔥 Love solving problems and shipping production-ready apps
 
-\---
+---
 
-\## 🧑‍💻 Experience
+## 🧑‍💻 Experience
 
-\- ⚙️ Backend-heavy full-stack development with \*\*MongoDB, Express, React, Node.js\*\*
-\- 📱 Mobile development using \*\*React Native & Expo\*\*
-\- 🎨 UI design using \*\*Tailwind CSS\*\*
-\- 🔗 API integration with \*\*Axios, REST APIs\*\*
-\- 🗄️ Working with \*\*SQL Server & backend architecture\*\*
-\- ☁️ Deployment on \*\*Vercel, Netlify & Play Store\*\*
+- ⚙️ Backend-heavy full-stack development with **MongoDB, Express, React, Node.js**
+- 📱 Mobile development using **React Native & Expo**
+- 🎨 UI design using **Tailwind CSS**
+- 🔗 API integration with **Axios, REST APIs**
+- 🗄️ Working with **SQL Server & backend architecture**
+- ☁️ Deployment on **Vercel, Netlify & Play Store**
 
-\---
+---
 
-\## 🚀 Projects
+## 🚀 Projects
 
-\- 🛒 \*\*E-commerce Platform\*\* &#x20;
-&#x20; Role-based pricing, wishlist, advanced filtering &#x20;
+- 🛒 **E-commerce Platform**  
+  Role-based pricing, wishlist, advanced filtering  
 
-\- 📱 \*\*Mobile Shopping App\*\* &#x20;
-&#x20; Full cart flow, wishlist, API integration &#x20;
+- 📱 **Mobile Shopping App**  
+  Full cart flow, wishlist, API integration  
 
-\- 💼 \*\*Job Portal\*\* &#x20;
-&#x20; Job listings, WhatsApp integration, Excel export &#x20;
+- 💼 **Job Portal**  
+  Job listings, WhatsApp integration, Excel export  
 
-\- 💍 \*\*Wedding Website\*\* &#x20;
-&#x20; Kerala-style animated invitation UI &#x20;
+- 💍 **Wedding Website**  
+  Kerala-style animated invitation UI  
 
-\---
+---
 
-\## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-\<p align="center">
+<p align="center">
 
-\<img src="[https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,vite,js,ts,git,github,vscode](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,vite,js,ts,git,github,vscode)" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,vite,js,ts,git,github,vscode" />
 
-\</p>
+</p>
 
-\---
+---
 
-\## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=jithinpulikkal&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=jithinpulikkal\&theme=tokyonight\&hide_border=true)" />
-\</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jithinpulikkal&theme=tokyonight&hide_border=true" />
+</p>
 
-\---
+---
 
-\## ⚡ Activity Graph
+## ⚡ Activity Graph
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=jithinpulikkal&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=jithinpulikkal\&theme=tokyo-night\&hide_border=true)" />
-\</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jithinpulikkal&theme=tokyo-night&hide_border=true" />
+</p>
 
-\---
+---
 
-\## 📬 Contact
+## 📬 Contact
 
-\- 📧 mail.jithinpulikkal@gmail.com &#x20;
-\- 🌐 [https://jithinpulikkal.in](https://jithinpulikkal.in) &#x20;
-\- 💼 [https://www.linkedin.com/in/jithinpulikkal/](https://www.linkedin.com/in/jithinpulikkal/)
+- 📧 mail.jithinpulikkal@gmail.com  
+- 🌐 https://jithinpulikkal.in  
+- 💼 https://www.linkedin.com/in/jithinpulikkal/
 
-\---
+---
 
-\<p align="center">
-&#x20; \<i>Minimal. Clean. Scalable. Always Building 🚀\</i>
-\</p>
+<p align="center">
+  <i>Minimal. Clean. Scalable. Always Building 🚀</i>
+</p>
