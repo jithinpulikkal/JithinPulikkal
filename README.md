@@ -37,8 +37,8 @@ I'm a software developer focused on the **MERN stack** and **React Native**, wit
 
 ## Tools I work with 🛠️
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,vite,git,github,vscode&amp;perline=6" alt="JavaScript, TypeScript, React, Node.js, Express, MongoDB, Tailwind CSS, Vite, Git, GitHub, and VS Code" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,vite,js,ts,git,github,vscode" alt="React, Node.js, Express, MongoDB, Tailwind CSS, Vite, JavaScript, TypeScript, Git, GitHub, and VS Code" />
 </p>
 
 - 🎨 **Frontend:** React · Tailwind CSS · Vite
