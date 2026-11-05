@@ -1,0 +1,31 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jithin Pulikkal — MERN Stack and React Native Developer</title>
+  <desc id="desc">Navy banner with cyan and lavender accents. Thoughtful interfaces. Dependable backends.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#172554"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a5b4fc"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a5b4fc" stroke-opacity="0.06"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <path d="M48 2H1152" stroke="url(#accent)" stroke-width="4"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="64" y="76" fill="#22d3ee" font-size="15" font-weight="700" letter-spacing="4">WEB + MOBILE DEVELOPER</text>
+    <text x="60" y="153" fill="#f8fafc" font-size="62" font-weight="700">Jithin Pulikkal</text>
+    <text x="64" y="202" fill="#a5b4fc" font-size="25">MERN Stack &amp; React Native</text>
+    <rect x="64" y="234" width="64" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="64" y="278" fill="#cbd5e1" font-size="21">Thoughtful interfaces. Dependable backends.</text>
+    <text x="64" y="318" fill="#94a3b8" font-size="15" letter-spacing="1">jithinpulikkal.in</text>
+  </g>
+  <g fill="none" stroke-width="2">
+    <rect x="838" y="72" width="282" height="184" rx="14" fill="#0f172a" stroke="#334155"/>
+    <path d="M838 108H1120" stroke="#334155"/>
+    <circle cx="858" cy="90" r="4" fill="#22d3ee"/>
+    <circle cx="874" cy="90" r="4" fill="#a5b4fc"/>
+    <circle cx="890" cy="90" r="4" fill="#34d399"/>
+    <path d="M918 149L887 180L918 211M1038 149L1069 180L1038 211M990 143L966 217" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="1040" y="206" width="88" height="112" rx="14" fill="#0f172a" stroke="#a5b4fc"/>
+    <path d="M1070 220H1098M1076 303H1092" stroke="#64748b" stroke-linecap="round"/>
+    <path d="M1062 249H1106M1062 262H1093M1062 275H1100" stroke="#22d3ee" stroke-linecap="round"/>
+  </g>
+</svg>

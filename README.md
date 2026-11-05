@@ -1,84 +1,65 @@
-<h1 align="center">Hi 👋, I'm Jithin</h1>
-<h3 align="center">MERN Stack & React Native Developer</h3>
-
-<p align="center">
-  <a href="https://jithinpulikkal.in">🌐 Portfolio</a> •
-  <a href="mailto:mail.jithinpulikkal@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/jithinpulikkal/">💼 LinkedIn</a>
+﻿<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Jithin Pulikkal — MERN Stack and React Native Developer" />
 </p>
 
----
-
-## 🚀 About Me
-
-- 💻 Software Developer focused on **MERN Stack & React Native**
-- ⚡ Passionate about **scalable systems & clean UI**
-- 📱 Building **mobile + web apps with real-world impact**
-- 🔥 Love solving problems and shipping production-ready apps
-
----
-
-## 🧑‍💻 Experience
-
-- ⚙️ Backend-heavy full-stack development with **MongoDB, Express, React, Node.js**
-- 📱 Mobile development using **React Native & Expo**
-- 🎨 UI design using **Tailwind CSS**
-- 🔗 API integration with **Axios, REST APIs**
-- 🗄️ Working with **SQL Server & backend architecture**
-- ☁️ Deployment on **Vercel, Netlify & Play Store**
-
----
-
-## 🚀 Projects
-
-- 🛒 **E-commerce Platform**  
-  Role-based pricing, wishlist, advanced filtering  
-
-- 📱 **Mobile Shopping App**  
-  Full cart flow, wishlist, API integration  
-
-- 💼 **Job Portal**  
-  Job listings, WhatsApp integration, Excel export  
-
-- 💍 **Wedding Website**  
-  Kerala-style animated invitation UI  
-
----
-
-## 🛠️ Tech Stack
+<p align="center"><strong>I build web and mobile experiences, from the API to the final interaction.</strong></p>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,vite,js,ts,git,github,vscode" />
-
+  <a href="https://jithinpulikkal.in"><img src="https://img.shields.io/badge/Portfolio-Visit_my_site-22d3ee?style=for-the-badge&amp;labelColor=0f172a" alt="Visit my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jithinpulikkal/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-a5b4fc?style=for-the-badge&amp;labelColor=0f172a" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:mail.jithinpulikkal@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-34d399?style=for-the-badge&amp;labelColor=0f172a" alt="Email me" /></a>
 </p>
 
----
+## Hey, I'm Jithin 👋
 
-## 📊 GitHub Stats
+I'm a software developer focused on the **MERN stack** and **React Native**, with a particular interest in backend architecture and clean, usable interfaces. I enjoy connecting the pieces that make an app useful: data, APIs, and the screens people interact with.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jithinpulikkal&theme=tokyonight&hide_border=true" />
+- **On the web:** full-stack applications with MongoDB, Express, React, and Node.js.
+- **On mobile:** app flows and shopping experiences with React Native and Expo.
+- **Behind the scenes:** REST APIs, SQL Server, and backend architecture.
+- **Through to launch:** deployment with Vercel, Netlify, and the Play Store.
+
+## Selected work ✨
+
+| Project | What I built |
+| :--- | :--- |
+| 🛒 **E-commerce platform** | Role-based pricing, wishlists, and advanced product filtering. |
+| 📱 **Mobile shopping app** | A complete cart flow, wishlists, and API integrations. |
+| 💼 **Job portal** | Job listings, WhatsApp integration, and Excel exports. |
+| 💍 **Wedding website** | A Kerala-style invitation with an animated interface. |
+
+**[Explore my portfolio →](https://jithinpulikkal.in)**
+
+## Tools I work with 🛠️
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,vite,git,github,vscode&amp;perline=6" alt="JavaScript, TypeScript, React, Node.js, Express, MongoDB, Tailwind CSS, Vite, Git, GitHub, and VS Code" />
 </p>
 
----
+| Area | Stack |
+| :--- | :--- |
+| **Frontend** | React · Tailwind CSS · Vite |
+| **Mobile** | React Native · Expo |
+| **Backend & data** | Node.js · Express · MongoDB · SQL Server |
+| **APIs & delivery** | REST APIs · Axios · Vercel · Netlify · Play Store |
 
-## ⚡ Activity Graph
+<details>
+  <summary><strong>📊 A look at my GitHub activity</strong></summary>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jithinpulikkal&theme=tokyo-night&hide_border=true" />
-</p>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jithinpulikkal&amp;bg_color=0f172a&amp;color=a5b4fc&amp;line=22d3ee&amp;point=34d399&amp;area=true&amp;hide_border=true" width="100%" alt="Jithin Pulikkal's recent GitHub contribution activity" />
+  </p>
 
----
+  [View my GitHub profile](https://github.com/jithinpulikkal) for contributions and repositories.
 
-## 📬 Contact
-
-- 📧 mail.jithinpulikkal@gmail.com  
-- 🌐 https://jithinpulikkal.in  
-- 💼 https://www.linkedin.com/in/jithinpulikkal/
+</details>
 
 ---
 
 <p align="center">
-  <i>Minimal. Clean. Scalable. Always Building 🚀</i>
+  <strong>Have an idea for a web or mobile app? Let's talk.</strong><br />
+  <a href="mailto:mail.jithinpulikkal@gmail.com">mail.jithinpulikkal@gmail.com</a>
 </p>
+
+<p align="center"><sub>Clean interfaces. Thoughtful architecture. Always building.</sub></p>
