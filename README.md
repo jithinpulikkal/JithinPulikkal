@@ -84,17 +84,6 @@
 
 ---
 
-
-## ⚡ GitHub Contributions
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/409ba5/jithinpulikkal" alt="Jithin's GitHub Contribution Chart" />
-
-</div>
-
----
-
 ## 📬 Contact
 
 - 📧 [mail.jithinpulikkal@gmail.com](mailto:mail.jithinpulikkal@gmail.com)
