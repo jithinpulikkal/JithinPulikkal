@@ -19,21 +19,63 @@ I'm a software developer focused on the **MERN stack** and **React Native**, wit
 - **Behind the scenes:** REST APIs, SQL Server, and backend architecture.
 - **Through to launch:** deployment with Vercel, Netlify, and the Play Store.
 
+## Latest projects 🚀
+
+- 📱 **Staff Attendance App** (QoQ)<br />
+  Staff attendance with punch-in and punch-out, location check-ins, attendance history, and employee and work-site management.<br />
+  **Stack:** React Native · Expo · Node.js · Express · SQL Server
+
+- 🧾 **Accountants Task Management App** (Delica)<br />
+  Role-based task management for accountants, with daily and monthly assignments, special tasks, leave records, and PDF reports.<br />
+  **Stack:** React Native · Expo · Node.js · Express · SQL Server
+
+- 📦 **Inventory Management App** (Delica)<br />
+  Inventory and event stock management with stock movement history, damage and loss reporting, and admin review workflows.<br />
+  **Stack:** React Native · Expo · Node.js · Express · SQL Server
+
+- 🛒 **Supermarket Website** (Thoufeeq Supermarket)<br />
+  A supermarket website with product categories, offers, and store information.<br />
+  **Stack:** React · Tailwind CSS · Vite
+
+- 🎙️ **Speech Transcription App** (Speech-to-Text)<br />
+  Speech transcription with native speech recognition, a browser fallback, locally saved transcripts, and copy/share tools.<br />
+  **Stack:** React Native · Expo · AsyncStorage
+
+- 🛍️ **Grocery Catalog Website** (Bismi Supermarket)<br />
+  A grocery catalog featuring biryani ingredient kits, regional biryani guides, product offers, and feast supplies.<br />
+  **Stack:** React · Tailwind CSS · Vite
+
+- 📋 **Customer Requirements Management App** (Customer Requirements Record App)<br />
+  A mobile app for organizing customer requirements, filtering records by date, customer, status, and type, and exporting Excel or PDF reports.<br />
+  **Stack:** React Native · Expo · AsyncStorage
+
+- 🔐 **Authentication UI** (React Auth Screens)<br />
+  Sign-in and sign-up interfaces built as reusable React components.<br />
+  **Stack:** React · Tailwind CSS · Vite
+
 ## Selected work ✨
 
-- 🛒 **E-commerce Platform**<br />
+- 🧪 **Business Website** (Leden Chemicals)<br />
+  A responsive React business website presenting chemical products and services.
+
+- 🌐 **Minerals Catalog Website** (Chennai Minerals)<br />
+  A searchable industrial minerals catalog with application filters, product details, and product inquiry options.<br />
+  **Stack:** React · Vite
+
+- 🌐 **Business Website** (Empire Marketing)<br />
+  A business website showcasing drip irrigation, electrical accessories, and plumbing solutions for a Kerala-based supplier and authorised ALTECH distributor.
+
+- 🛒 **E-commerce Platform** (Alik Store)<br />
   Role-based pricing, wishlists, and advanced product filtering.
 
-- 📱 **Mobile Shopping App**<br />
+- 📱 **Mobile Shopping App** (Alik Store)<br />
   A complete cart flow, wishlists, and API integrations.
 
-- 💼 **Job Portal**<br />
+- 💼 **Job Portal** (Riyahub)<br />
   Job listings, WhatsApp integration, and Excel exports.
 
 - 💍 **Wedding Website**<br />
   A Kerala-style invitation with an animated interface.
-
-**[Explore my portfolio →](https://jithinpulikkal.in)**
 
 ## Tools I work with 🛠️
 
@@ -46,17 +88,18 @@ I'm a software developer focused on the **MERN stack** and **React Native**, wit
 - ⚙️ **Backend & data:** Node.js · Express · MongoDB · SQL Server
 - 🚀 **APIs & delivery:** REST APIs · Axios · Vercel · Netlify · Play Store
 
-<details>
-  <summary><strong>📊 A look at my GitHub activity</strong></summary>
+## GitHub activity 📊
 
-  <br />
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jithinpulikkal&amp;bg_color=0f172a&amp;color=a5b4fc&amp;line=22d3ee&amp;point=34d399&amp;area=true&amp;hide_border=true" width="100%" alt="Jithin Pulikkal's recent GitHub contribution activity" />
-  </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jithinpulikkal&amp;theme=tokyonight&amp;hide_border=true" alt="Jithin Pulikkal's GitHub contribution streak" />
+</p>
 
-  [View my GitHub profile](https://github.com/jithinpulikkal) for contributions and repositories.
+## Development approach
 
-</details>
+- 🗂️ **Business workflows:** Turn everyday operations into practical tools for attendance, task management, inventory, and commerce.
+- ⚙️ **Application architecture:** Connect web and mobile interfaces to structured APIs and databases.
+- 📊 **Access and reporting:** Build role-based workflows, searchable records, and useful exports.
+- 🎨 **User experience:** Focus on clear navigation, responsive layouts, and straightforward interactions.
 
 ---
 
